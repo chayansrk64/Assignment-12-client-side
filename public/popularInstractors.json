@@ -1,0 +1,38 @@
+[
+    {
+      "_id": 1,
+      "name": "John Smith",
+      "img": "https://objektiv1.qodeinteractive.com/wp-content/uploads/2017/06/b-team-6.jpg",
+      "category": "Landscape Photography"
+    },
+    {
+      "_id": 2,
+      "name": "Emily Johnson",
+      "img": "https://objektiv1.qodeinteractive.com/wp-content/uploads/2017/06/b-team-5.jpg",
+      "category": "Portrait Photography"
+    },
+    {
+      "_id": 3,
+      "name": "Michael Davis",
+      "img": "https://objektiv1.qodeinteractive.com/wp-content/uploads/2017/06/b-team-4.jpg",
+      "category": "Street Photography"
+    },
+    {
+      "_id": 4,
+      "name": "Mack Gens",
+      "img": "https://objektiv1.qodeinteractive.com/wp-content/uploads/2017/06/b-team-3.jpg",
+      "category": "Wildlife Photography"
+    },
+    {
+      "_id": 5,
+      "name": "David Lee",
+      "img": "https://objektiv1.qodeinteractive.com/wp-content/uploads/2017/06/b-team-1.jpg",
+      "category": "Macro Photography"
+    },
+    {
+      "_id": 6,
+      "name": "Sophia Wilson",
+      "img": "https://objektiv1.qodeinteractive.com/wp-content/uploads/2017/06/b-team-2.jpg",
+      "category": "Fashion Photography"
+    }
+  ]

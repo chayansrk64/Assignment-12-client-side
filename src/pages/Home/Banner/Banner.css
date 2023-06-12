@@ -1,0 +1,7 @@
+.carousel .thumb{
+    display: none;
+}
+ 
+.carousel.carousel-slider .control-arrow{
+    display: none;
+}

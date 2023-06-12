@@ -1,0 +1,44 @@
+[
+    {
+      "_id": 1,
+      "price":750,
+      "student_numbers": 120,
+      "category": "Landscape Photography",
+      "img": "https://assets.entrepreneur.com/content/3x2/2000/20191009140007-GettyImages-1053962188.jpeg"
+    },
+    {
+      "_id": 2,
+      "price":800,
+      "student_numbers": 105,
+      "category": "Portrait Photography",
+      "img": "https://media.istockphoto.com/id/610259354/photo/young-woman-using-dslr-camera.jpg?s=612x612&w=0&k=20&c=gjAR4JiqA8lkGQzssSrXxo3yl-cwr5j7Hy47cy-10c4="
+    },
+    {
+      "_id": 3,
+      "price":250,
+      "student_numbers": 95,
+      "category": "Street Photography",
+      "img": "https://iso.500px.com/wp-content/uploads/2015/09/streetcover1.jpeg"
+    },
+    {
+      "_id": 4,
+      "price":300,
+      "student_numbers": 85,
+      "category": "Wildlife Photography",
+      "img": "https://youthincmag.com/wp-content/uploads/2014/08/resize.jpg"
+    },
+    {
+      "_id": 5,
+      "price":650,
+      "student_numbers": 80,
+      "category": "Macro Photography",
+      "img": "https://cdn.mos.cms.futurecdn.net/6S47HW8fYeiWxThhuYUGTV-1200-80.jpg"
+    },
+    {
+      "_id": 6,
+      "price":500,
+      "student_numbers": 75,
+      "category": "Fashion Photography",
+      "img": "https://static.bhphotovideo.com/explora/sites/default/files/TS-CTV-2589-Best-Gear-for-Fashion-Photography.jpg"
+    }
+  ]
